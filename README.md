@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with contributors for [iOSWeeklyLearning](https://github.com/zhangferry/iOSWeeklyLearning)
 
 ## Reach me 📫
-- [blog](zhangferry.com)
-- [juejin](https://juejin.cn/user/2242659450368119)
+- [Website](zhangferry.com)
+- [Juejin](https://juejin.cn/user/2242659450368119)
 - [Weibo](https://weibo.com/713407241)
 
 ## Github stats
