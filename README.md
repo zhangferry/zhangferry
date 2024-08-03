@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [bytedance](https://www.bytedance.com)
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Python/TypeScript
 - 🤔 I’m looking for help with contributors for [iOSWeeklyLearning](https://github.com/zhangferry/iOSWeeklyLearning)
 
 ## Reach me 📫
